@@ -1,6 +1,6 @@
 # 🕺🏻 Karol Studniarek
 
-**`Senior Undergraduate CS Student`**
+**`Undergraduate CS Student`**
 
 
 Last year bachelor's student of computer science, musician, fan of geopolitics. Started my programming road 3 years ago when I got accepted to university. My projects are mostly done as a final projects of university courses. I love teamwork, organizing workflow, management, discusing big projects architecture and finding easy solutions for  tough problems.
