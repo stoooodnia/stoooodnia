@@ -53,7 +53,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-ori
 </details>
 <details>
  <summary><h3>🏹 Goals</h3></summary>
-  🏢 Find an internship and my first job!!
+  🏢 Finish Bachelors 
   <br>
   💿 Record an LP
   <br>
